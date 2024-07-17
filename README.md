@@ -80,19 +80,19 @@
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/easy-keeper.git
+   git clone https://github.com/themihirmathur/Easy-Keeper.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd easy-keeper
+   cd Easy-Keeper
    ```
 3. Compile the C++ source code:
    ```sh
-   g++ -o easy-keeper main.cpp
+   g++ -o Easy-Keeper main.cpp
    ```
 4. Run the application:
    ```sh
-   ./easy-keeper
+   ./Easy-Keeper
    ```
 
 <p align="left">
